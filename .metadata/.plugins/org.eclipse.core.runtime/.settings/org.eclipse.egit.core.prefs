@@ -1,4 +1,5 @@
-GitRepositoriesView.GitDirectories=C\:\\Users\\002VI0744\\git\\repository\\.git;C\:\\Users\\002VI0744\\git\\repository\\demo\\.git;
-GitRepositoriesView.GitDirectories.relative=C\:\\Users\\002VI0744\\git\\repository\\.git;C\:\\Users\\002VI0744\\git\\repository\\demo\\.git;
+GitRepositoriesView.GitDirectories=C\:\\Users\\002VI0744\\git\\repository\\.git;C\:\\Users\\002VI0744\\git\\toolchainrepo\\.git;C\:\\Users\\002VI0744\\OneDrive\\WORK\\.git;C\:\\Users\\002VI0744\\git\\cloudrepository\\.git;C\:\\Users\\002VI0744\\git\\repository\\demo\\.git;
+GitRepositoriesView.GitDirectories.relative=C\:\\Users\\002VI0744\\git\\repository\\.git;C\:\\Users\\002VI0744\\git\\toolchainrepo\\.git;.git;C\:\\Users\\002VI0744\\git\\cloudrepository\\.git;C\:\\Users\\002VI0744\\git\\repository\\demo\\.git;
+RepositorySearchDialogSearchPath=C\:\\Users\\002VI0744\\git
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1

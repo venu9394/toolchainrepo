@@ -1,7 +1,0 @@
-server.port=8086
-
-cloudant.url=<your-cloudant-url>
-cloudant.username=<your-cloudant-username>
-cloudant.password=<your-cloudant-password>
-
-

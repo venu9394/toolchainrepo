@@ -1,4 +1,0 @@
-FROM openjdk:8
-ADD target/docker_cloud.jar docker_cloud.jar
-EXPOSE 9090
-ENTRYPOINT ["java","-jar","docker_cloud.jar"]
