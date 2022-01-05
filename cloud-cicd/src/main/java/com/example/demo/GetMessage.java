@@ -13,7 +13,7 @@ public class GetMessage {
 	public String welcome(@PathVariable String message) {
 		
 		/*return "welcome to IBM india india";*/
-		return message;
+		return message +" !!! IBM CLOUD Tool chain sample deployment.";
 	}
 
 

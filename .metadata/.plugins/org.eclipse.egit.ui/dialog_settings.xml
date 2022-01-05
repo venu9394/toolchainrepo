@@ -2,12 +2,12 @@
 <section name="Workbench">
 	<item key="ResetTargetSelectionDialog.resetType" value="MIXED"/>
 	<list key="CommitDialog.authorValues">
-		<item value="002VI0744 &lt;002VI0744@host.docker.internal&gt;"/>
 		<item value="002VI0744 &lt;002VI0744@LAPTOP-UJ2HG60P&gt;"/>
+		<item value="002VI0744 &lt;002VI0744@host.docker.internal&gt;"/>
 	</list>
 	<list key="CommitDialog.committerValues">
-		<item value="002VI0744 &lt;002VI0744@host.docker.internal&gt;"/>
 		<item value="002VI0744 &lt;002VI0744@LAPTOP-UJ2HG60P&gt;"/>
+		<item value="002VI0744 &lt;002VI0744@host.docker.internal&gt;"/>
 	</list>
 	<list key="EGit.KnownHosts">
 		<item value="git.eclipse.org"/>
@@ -15,6 +15,7 @@
 		<item value="bitbucket.org"/>
 	</list>
 	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/venu9394/toolchainrepo.git"/>
 		<item value="https://github.com/venu9394/cloudrepository.git"/>
 		<item value="https://github.com/venu9394/Cloud.git"/>
 	</list>
@@ -27,8 +28,8 @@
 	<section name="GitCommitMessageComponent">
 	</section>
 	<section name="org.eclipse.egit.ui.internal.push.PushResultDialog.dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="534"/>
-		<item key="DIALOG_Y_ORIGIN" value="186"/>
+		<item key="DIALOG_X_ORIGIN" value="709"/>
+		<item key="DIALOG_Y_ORIGIN" value="492"/>
 		<item key="DIALOG_WIDTH" value="875"/>
 		<item key="DIALOG_HEIGHT" value="503"/>
 		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
